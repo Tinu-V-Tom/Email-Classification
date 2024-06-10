@@ -10,8 +10,7 @@ The email classification project aims to provide a robust solution for classifyi
 The dataset used for training the model consists of emails labeled as spam or not spam. The dataset is preprocessed to handle missing values, text cleaning, and feature extraction.
 
 ## Model Deployment
-The model is deployed using Streamlit. You can access the deployed model at the following network URL:
- http://192.168.1.46:8501
+The model is deployed using Streamlit. 
 
 ### Features
 - **Data Preprocessing**: Handles text cleaning and feature extraction.
